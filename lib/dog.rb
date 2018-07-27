@@ -27,9 +27,8 @@ class Dog
 end
 
 
-dog1= Dog.new()
+dog1= Dog.new("doggo")
 puts dog1.name
-dog1.name=("doggo")
 puts dog1.breed
 puts dog1.color
 dog1.color=("pink")
