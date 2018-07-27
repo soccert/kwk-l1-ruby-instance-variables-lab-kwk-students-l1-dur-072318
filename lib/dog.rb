@@ -4,6 +4,7 @@ class Dog
     @name = name
     @breed = breed
     @behavior = behavior
+  end
   this_dogs_name = dog_name
   end
   
