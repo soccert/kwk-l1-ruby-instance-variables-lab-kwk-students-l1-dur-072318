@@ -20,6 +20,10 @@ class Dog
   
   def color=(new_color)
     @color = new_color
+  end
+  
+  def name=(new_name)
+    @name = new_name
 end
 
 
