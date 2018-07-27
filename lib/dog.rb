@@ -20,9 +20,9 @@ class Dog
 end
 
 
-dog1= Dog.new("name, breed, color")
+dog1= Dog.new("oscar, poodle, black")
 puts dog1.name
-dog1.name=("oscar")
+dog1.name=("doggo")
 puts dog1.breed
 puts dog1.color
-dog1.color=("white")
+dog1.color=("pink")
