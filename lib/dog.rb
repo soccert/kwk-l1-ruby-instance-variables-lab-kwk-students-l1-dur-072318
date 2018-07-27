@@ -21,4 +21,6 @@ end
 
 
 dog1= Dog.new("name, breed, behavior")
-puts 
+puts dog1.name
+puts dog1.breed
+puts dog1.behavior
