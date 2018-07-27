@@ -17,6 +17,8 @@ class Dog
   def color
     @color
   end 
+  
+  def
 end
 
 
