@@ -22,7 +22,7 @@ end
 
 dog1= Dog.new("name, breed, color")
 puts dog1.name
-dog1.name=("roxy")
+dog1.name=("oscar")
 puts dog1.breed
 puts dog1.color
-dog1.color
+dog1.color=("white")
