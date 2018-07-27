@@ -18,3 +18,6 @@ class Dog
     @behavior
   end 
 end
+
+
+dog1=
