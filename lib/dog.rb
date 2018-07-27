@@ -1,6 +1,6 @@
 # dog.rb
 class Dog
-  def initialize=(name, breed, color)
+  def initialize=(name, breed, color=)
     @name = name
     @breed = breed
     @behavior = behavior
