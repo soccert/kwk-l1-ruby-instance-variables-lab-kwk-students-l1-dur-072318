@@ -20,7 +20,7 @@ class Dog
 end
 
 
-dog1= Dog.new("oscar", "poodle", "black")
+dog1= Dog.new()
 puts dog1.name
 dog1.name=("doggo")
 puts dog1.breed
