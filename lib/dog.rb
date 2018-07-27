@@ -1,6 +1,6 @@
 # dog.rb
 class Dog
-  def initialize=(name, breed, behavior)
+  def initialize=(name, breed, color)
     @name = name
     @breed = breed
     @behavior = behavior
@@ -14,13 +14,15 @@ class Dog
     @breed
   end 
   
-  def behavior
-    @behavior
+  def color
+    @color
   end 
 end
 
 
-dog1= Dog.new("name, breed, behavior")
+dog1= Dog.new("name, breed, color")
 puts dog1.name
+dog1.name=("roxy")
 puts dog1.breed
-puts dog1.behavior
+puts dog1.color
+dog1.color
