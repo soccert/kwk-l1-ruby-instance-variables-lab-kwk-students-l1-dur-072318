@@ -20,4 +20,4 @@ class Dog
 end
 
 
-dog1= Dog.new()
+dog1= Dog.new("name, breed, behavior")
