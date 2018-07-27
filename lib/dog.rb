@@ -25,7 +25,7 @@ class Dog
 end
 
 
-dog1= Dog.new("doggo","poodle","pink")
+dog1= Dog.new=("doggo","poodle","pink")
 puts dog1.name
 puts dog1.breed
 puts dog1.color
