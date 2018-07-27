@@ -1,5 +1,5 @@
 # dog.rb
 class Dog
-  def intialize()
+  def initialize()
   @this_dogs_name
 end
