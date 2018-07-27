@@ -5,7 +5,9 @@ class Dog
     @breed = breed
     @behavior = behavior
   end
-  this_dogs_name = dog_name
+  
+  def 
+    @name
   end
   
   def name
