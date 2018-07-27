@@ -18,7 +18,7 @@ class Dog
     @color
   end 
   
-  def
+  def color = (new_color)
 end
 
 
